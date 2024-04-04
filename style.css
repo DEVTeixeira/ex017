@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+/*
+em HTML o id =  no CSS        #
+en HTML a class =  no CSS       . 
+*/
+
+
+body{
+    background-color: #696969;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+color: #00c3ff;
+
+
+}
+h1#s1{
+    text-align: center;
+}
+    h2#s1{
+        text-align: center;
+
+    }
